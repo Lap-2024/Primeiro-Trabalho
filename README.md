@@ -12,6 +12,10 @@ Deverá **apenas alterar os dois primeiros**. O ficheiro `pascal.ml` deverá
 conter a sua solução ao primeiro exercício; o ficheiro `tiles.ml` deverá conter
 a sua solução ao segundo exercício do trabalho.
 
+Realizar um *commit* significa realizar uma nova entrega do trabalho. Assim,
+apenas o último *commit* será considerado como a entrega de versão final do seu
+trabalho.
+
 ### Primeiro exercício
 
 No ficheiro `pascal.ml` encontrará a declaração de duas funções, `n_k_element` e
